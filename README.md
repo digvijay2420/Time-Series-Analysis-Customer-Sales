@@ -16,7 +16,18 @@ This project applies **Time Series Analysis (TSA)** techniques to shopping trans
 ---
 
 ## 📂 Repository Structure
-<pre> ``` Time-Series-Analysis-Customer-Sales/ │── data/ │ └── DATASET_LINK.md # Google Drive link to full dataset │ │── notebooks/ │ └── TSA_project.ipynb # Jupyter Notebook with code & outputs │ │── docs/ │ └── TSA_project_report.pdf # Detailed report (exported from .docx) │ │── requirements.txt # Python dependencies │── README.md # Project overview (this file) ``` </pre>
+Time-Series-Analysis-Customer-Sales/
+│── data/
+│    └── DATASET_LINK.md                   # Google Drive link to full dataset
+│
+│── notebooks/
+│    └── TSA_project.ipynb                 # Jupyter Notebook with code & outputs
+│
+│── docs/
+│    └── TSA_project_report.pdf                   # (optional) Detailed report (PDF)
+│
+│── requirements.txt                       # Python dependencies
+│── README.md                              # Project overview (this file)
 
 ---
 
