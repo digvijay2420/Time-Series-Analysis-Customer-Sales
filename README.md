@@ -92,5 +92,5 @@ jupyter notebook notebooks/TSA_project.ipynb
 ## 📝 Authors
 - **Digvijay Singh**  
 
-*(Project under STAT-414: Programming in R (Lab Based), Pondicherry University, April 2025)*
+*(Project under STAT-545: Time Series Analysis, Pondicherry University, April 2025)*
 
